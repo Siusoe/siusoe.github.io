@@ -2,10 +2,6 @@
 title: "Test Posts update"
 ---
 
-# 테스트
-## 테스트22
-### 업로드?
-
 Syntax highlighted code block
 
 # Header 1
